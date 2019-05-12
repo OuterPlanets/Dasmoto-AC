@@ -1,7 +1,39 @@
+p {
+    font-size: 15px;
+}
+
+h4,h6,p {
+    font-family: Helvetica;
+}
+
 .main-title h1 {
     font-family: Helvetica;
+    text-align: center;
+    color: khaki;
     font-size: 100px;
     font-weight: bold;
-    color: khaki;
     background-image: url(./images/pattern.jpeg)
+}
+
+.secondary-title h4 {
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+}
+
+.description h6 {
+    font-size: 20px
+
+}
+
+#Brush {
+    background-color: mediumspringgreen;
+}
+
+#frame {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
 }
